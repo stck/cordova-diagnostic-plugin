@@ -37,7 +37,7 @@
         </config-file>
 
         <config-file target="*-Info.plist" parent="NSPhotoLibraryUsageDescription">
-            <string>This app requires photo library access to function properly.</string>
+            <string>You will be able upload your profile picture from Photo Library.</string>
         </config-file>
 
         <config-file target="*-Info.plist" parent="NSBluetoothPeripheralUsageDescription">
