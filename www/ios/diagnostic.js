@@ -1,4 +1,3 @@
-cordova.define("cordova.plugins.diagnostic.Diagnostic", function(require, exports, module) {
 	/**
 	 *  Diagnostic plugin for iOS
 	 *
@@ -827,5 +826,3 @@ cordova.define("cordova.plugins.diagnostic.Diagnostic", function(require, export
 
 		return Diagnostic;
 	})();
-	module.exports = Diagnostic;
-});
