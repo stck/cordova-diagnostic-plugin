@@ -1,3 +1,4 @@
+
 	/**
 	 *  Diagnostic plugin for iOS
 	 *
@@ -826,3 +827,4 @@
 
 		return Diagnostic;
 	})();
+	module.exports = Diagnostic;
